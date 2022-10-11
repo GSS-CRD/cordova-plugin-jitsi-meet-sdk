@@ -73,10 +73,10 @@
 
         <header-file src="src/ios/CDVJitsiMeet.h" />
         <source-file src="src/ios/CDVJitsiMeet.m" />
-
-	<config>
-	</config>
         <podspec>
+		
+	    <config>
+	    </config>
             <pods use-frameworks="true" >
                 <pod name="JitsiMeetSDK" spec="3.10.4" />
             </pods>
