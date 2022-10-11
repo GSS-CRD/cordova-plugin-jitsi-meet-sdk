@@ -74,6 +74,8 @@
         <header-file src="src/ios/CDVJitsiMeet.h" />
         <source-file src="src/ios/CDVJitsiMeet.m" />
 
+	<config>
+	</config>
         <podspec>
             <pods use-frameworks="true" >
                 <pod name="JitsiMeetSDK" spec="3.10.4" />
